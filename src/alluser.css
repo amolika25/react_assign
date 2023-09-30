@@ -1,0 +1,28 @@
+.textelement {
+  text-align: center;
+  font-weight: 200;
+  font-size: x-large;
+}
+
+table,
+th,
+td {
+  border: 2px solid black;
+  border-collapse: collapse;
+}
+th,
+td {
+  padding: 10px;
+}
+.table {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.pagination-btn {
+  display: flex;
+  flex-direction: row;
+  margin-left: 670px;
+  margin-top: 10px;
+}
